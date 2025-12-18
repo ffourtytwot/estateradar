@@ -8,11 +8,14 @@ const translations = {
         
         demo_title: "Mokotów, Pre-War Tenement",
         demo_price_text: "Price: <b class='text-white'>590,000 PLN</b> (12,291/m²)<br><span class=\"text-green-400\">Fair Value: ~14,500/m² (Gap: 15.2%)</span>",
-        demo_ai_badge: "<i class='fa-solid fa-brain'></i> <b>AI Verdict:</b> Rare layout. Needs cosmetic renovation only. Projected ROI >18% after flip.",
+        demo_ai_badge: "<i class='fa-solid fa-brain'></i> <b>AI Verdict:</b> Rare layout. Needs cosmetic renovation only. Projected ROI >18%.",
         
         stats_title: "Market Intelligence",
+        stats_subtitle: "Live data comparison across districts",
         
-        pricing_title: "Investment Plans",
+        pricing_title: "Membership",
+        pricing_subtitle: "Investment in information pays the best interest.",
+        
         price_free_title: "Trial Access",
         price_free_desc: "72h Full Access",
         price_free_btn: "Start Trial",
@@ -47,8 +50,11 @@ const translations = {
         demo_ai_badge: "<i class='fa-solid fa-brain'></i> <b>Werdykt AI:</b> Rzadki układ. Tylko kosmetyka. Prognozowane ROI >18% po flipie.",
         
         stats_title: "Analiza Rynku",
+        stats_subtitle: "Porównanie cen w dzielnicach na żywo",
         
         pricing_title: "Plany Inwestycyjne",
+        pricing_subtitle: "Inwestycja w informację przynosi największy zwrot.",
+        
         price_free_title: "Wersja Próbna",
         price_free_desc: "Dostęp na 72h",
         price_free_btn: "Start",
@@ -83,8 +89,11 @@ const translations = {
         demo_ai_badge: "<i class='fa-solid fa-brain'></i> <b>Вердикт AI:</b> Редкая планировка. Нужна косметика. Прогноз ROI >18%.",
         
         stats_title: "Аналитика Рынка",
+        stats_subtitle: "Сравнение цен по районам в реальном времени",
         
         pricing_title: "Инвестиционные Планы",
+        pricing_subtitle: "Инвестиции в информацию приносят максимальный доход.",
+        
         price_free_title: "Пробный",
         price_free_desc: "Доступ на 72ч",
         price_free_btn: "Старт",
